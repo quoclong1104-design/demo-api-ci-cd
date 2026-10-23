@@ -18,4 +18,4 @@ jobs:
         run: postman login --with-api-key ${{ secrets.POSTMAN_API_KEY }}
 
       - name: Chạy kịch bản Monitor trực tiếp từ Cloud
-        run: postman collection run "38842100-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+        run: postman collection run "59169349-fcfe0fb4-f8e6-4abd-b841-d29e8282410c"
